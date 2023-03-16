@@ -7,10 +7,9 @@
 
 ---
 
-<img align="center" alt="dinushaHMT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinushaHMT&show_icons=true&hide_border=true&theme=radical"/>&nbsp;<img align="center" alt="dinushaHMT's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushaHMT&layout=compact&theme=radical&hide_border=true"/>
+<img align="center" alt="OKWijewardena's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OKWijewardena&show_icons=true&hide_border=true&theme=radical"/>&nbsp;<img align="center" alt="OKWijewardena's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OKWijewardena&layout=compact&theme=radical&hide_border=true"/>
 
 <br>
-
 #### :mailbox: Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Oshan_Wijewardena-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
