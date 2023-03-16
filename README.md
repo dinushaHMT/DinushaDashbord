@@ -2,8 +2,8 @@
 
 ### I'm a Student and Developer!!
 
-- 🌱 I’m currently learning angular js 😎
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning as python developer 😎
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ---
 
@@ -73,4 +73,4 @@
 
 [instagram]: #
 [linkedin]: #
-[gmail]: mailto:oshan.wijewardena@gmail.com
+[gmail]: mailto:dinushahmt@gmail.com
