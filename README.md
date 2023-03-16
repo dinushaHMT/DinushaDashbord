@@ -7,7 +7,7 @@
 
 ---
 
-<img align="center" alt="OKWijewardena's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OKWijewardena&show_icons=true&hide_border=true&theme=radical"/>&nbsp;<img align="center" alt="OKWijewardena's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OKWijewardena&layout=compact&theme=radical&hide_border=true"/>
+<img align="center" alt="dinushaHMT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinushaHMT&show_icons=true&hide_border=true&theme=radical"/>&nbsp;<img align="center" alt="dinushaHMT's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushaHMT&layout=compact&theme=radical&hide_border=true"/>
 
 <br>
 
@@ -24,7 +24,7 @@
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=OKWijewardena.OKWijewardena)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dinushaHMT.dinushaHMT)
 
 ---
 
