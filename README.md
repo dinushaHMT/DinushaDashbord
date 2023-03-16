@@ -33,11 +33,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/zaiidahamed/MovieReservation-App/pull/14) in [zaiidahamed/MovieReservation-App](https://github.com/zaiidahamed/MovieReservation-App)
-2. 💪 Opened PR [#14](https://github.com/zaiidahamed/MovieReservation-App/pull/14) in [zaiidahamed/MovieReservation-App](https://github.com/zaiidahamed/MovieReservation-App)
-3. 🎉 Merged PR [#9](https://github.com/zaiidahamed/MovieReservation-App/pull/9) in [zaiidahamed/MovieReservation-App](https://github.com/zaiidahamed/MovieReservation-App)
-4. 💪 Opened PR [#9](https://github.com/zaiidahamed/MovieReservation-App/pull/9) in [zaiidahamed/MovieReservation-App](https://github.com/zaiidahamed/MovieReservation-App)
-5. 🎉 Merged PR [#3](https://github.com/zaiidahamed/MovieReservation-App/pull/3) in [zaiidahamed/MovieReservation-App](https://github.com/zaiidahamed/MovieReservation-App)
+
   <!--END_SECTION:activity-->
 
 </details>
@@ -46,26 +42,6 @@
 
 <details>
 
-  <summary>:pushpin: Pinned Repositories</summary>
-
-  <br>
-  
-<!--   &nbsp;&nbsp;&nbsp;<a href="https://github.com/ImashaKuruppu25/SoundSpace">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImashaKuruppu25&repo=SoundSpace&theme=dracula&show_owner=true&hide_border=true" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="https://github.com/OKWijewardena/AutoCare-MAD-Project-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OKWijewardena&repo=AutoCare-MAD-Project&theme=dracula&show_owner=true&hide_border=true" />
-  </a>
-<!-- 
-  <br>
-
-&nbsp;&nbsp;&nbsp;<a href="https://github.com/lonewol7f/JavaCRUD">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImashaKuruppu25&repo=JavaCRUD&theme=dracula&show_owner=true&hide_border=true" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/lonewol7f/diceGame">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewol7f&repo=diceGame&theme=dracula&show_owner=true&hide_border=true" />
-</a>
--->
 
 </details>
 
