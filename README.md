@@ -12,9 +12,9 @@
 <br>
 #### :mailbox: Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Oshan_Wijewardena-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
-[![Mail Badge](https://img.shields.io/badge/-Oshan_Wijewardena-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
-[![Mail Badge](https://img.shields.io/badge/-Oshan_Wijewardena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
+[![Linkedin Badge](https://www.linkedin.com/in/dinusha-herath-2406b023b/?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
+[![Mail Badge](https://www.instagram.com/thisaru_dinusha_herath/?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
+[![Mail Badge](https://www.facebook.com/dinusha.herath.334?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][FB]
 
 #### Top Technologies
 
